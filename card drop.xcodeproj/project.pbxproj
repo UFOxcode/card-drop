@@ -15,6 +15,7 @@
 		070F66B923C86D5300C8DB3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 070F66B723C86D5300C8DB3E /* LaunchScreen.storyboard */; };
 		070F66C423C86D5300C8DB3E /* card_dropTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070F66C323C86D5300C8DB3E /* card_dropTests.swift */; };
 		070F66CF23C86D5300C8DB3E /* card_dropUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070F66CE23C86D5300C8DB3E /* card_dropUITests.swift */; };
+		070F66DD23C86F7700C8DB3E /* QuizBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070F66DC23C86F7700C8DB3E /* QuizBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		070F66CA23C86D5300C8DB3E /* card dropUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "card dropUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		070F66CE23C86D5300C8DB3E /* card_dropUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = card_dropUITests.swift; sourceTree = "<group>"; };
 		070F66D023C86D5300C8DB3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		070F66DC23C86F7700C8DB3E /* QuizBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				070F66AC23C86D5100C8DB3E /* AppDelegate.swift */,
 				070F66AE23C86D5100C8DB3E /* SceneDelegate.swift */,
 				070F66B023C86D5100C8DB3E /* ViewController.swift */,
+				070F66DC23C86F7700C8DB3E /* QuizBrain.swift */,
 				070F66B223C86D5100C8DB3E /* Main.storyboard */,
 				070F66B523C86D5300C8DB3E /* Assets.xcassets */,
 				070F66B723C86D5300C8DB3E /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				070F66B123C86D5100C8DB3E /* ViewController.swift in Sources */,
 				070F66AD23C86D5100C8DB3E /* AppDelegate.swift in Sources */,
 				070F66AF23C86D5100C8DB3E /* SceneDelegate.swift in Sources */,
+				070F66DD23C86F7700C8DB3E /* QuizBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
